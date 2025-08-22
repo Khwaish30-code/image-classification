@@ -14,7 +14,7 @@ This project implements an **Image Classification system** using a Convolutional
    Resize, normalize, and convert images to tensors suitable for model training.
 
 4. **Train Model**  
-   Train a CNN on the dataset using `main.ipynb`.
+   Train a CNN on the dataset using `image-classifier.ipynb`.
 
 5. **Evaluate & Predict**  
    Test the trained model on new images and visualize predictions.
